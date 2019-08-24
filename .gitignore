@@ -62,3 +62,8 @@ typings/
 
 # VSCode Extension
 .history
+
+build/
+
+# Mac
+.DS_Store
