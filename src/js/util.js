@@ -1,3 +1,3 @@
 export const random = max => {
-  Math.floor(Math.random() * max);
+  return Math.floor(Math.random() * max);
 };
